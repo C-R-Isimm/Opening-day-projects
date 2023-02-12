@@ -1,0 +1,6 @@
+# CRI opening-days projects
+The CRI club has been established at ISIMM University since 2011 that provides students with an opportunity to learn about robotics and technology. The club typically focuses on the design, construction, and programming of robots, with the aim of promoting hands-on learning and the development of technical skills. The club members engage in various activities such as building robots, competing in robotic challenges and attending workshops and seminars to stay up-to-date with the latest advancements in robotics and embedded systems. The club provides a collaborative environment for students to work together and learn from each other.
+
+The opening day of the CRI club is a highly anticipated event for students interested in robotics and technology. On this day, club members gather to celebrate the start of the club's activities. The event typically features a series of presentations and demonstrations aimed at introducing new students to the club and showcasing the projects and work completed by club members, including various embedded systems projects that incorporate multiple technologies.
+
+**On this repository, you can find the source code for all of our opening-day projects, organized into separate folders for each year.**
